@@ -1,4 +1,7 @@
-### 
+### 진수진
+Email: sujin7048@naver.com
+Blog: https://xuzin.tstory.com
+Github: https://github.com/lxuzin
 
 <!--
 **lxuzin/lxuzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
