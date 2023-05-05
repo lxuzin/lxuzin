@@ -1,6 +1,6 @@
 ### 진수진
 •Email: sujin7048@naver.com<br>
-•Blog: https://xuzin.tstory.com<br>
+•Blog: https://lxuzin.tstory.com<br>
 •Github: https://github.com/lxuzin<br>
 
 <!--
