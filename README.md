@@ -1,3 +1,6 @@
+
+![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20%20I'm%20Sujin)
+
 ### 진수진
 •Email: sujin7048@naver.com<br>
 •Blog: https://lxuzin.tstory.com<br>
