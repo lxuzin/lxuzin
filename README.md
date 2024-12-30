@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-#3366CC?style=for-the-badge&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-3366CC?style=for-the-badge&logo=html&logoColor=white"/>
 
